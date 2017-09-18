@@ -1,0 +1,68 @@
+@import url(./partial/base.css);
+
+.container{
+    position: relative;
+    height: 115vh;
+    background: url(../img/background2.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+
+.ticket{
+    padding-top: 5%; 
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    color: red;
+}
+
+.ticket p{
+    display: inline-block;
+    background-color: rgba(100%,100%,100%,0.5);
+    padding: .4rem .4rem;
+    font-size: 1.5rem;
+}
+
+.name{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 22%;
+}
+
+.name p{
+    display: inline-block;
+    background-color: rgba(100%,100%,100%,0.5);
+    padding: .5rem .5rem;
+    font-size: 1.6rem;
+}
+
+.info{
+    width: 85%;
+    margin: 2rem auto 0;
+    padding: 1rem 0;
+    background-color: rgba(100%,100%,100%,0.5);
+}
+
+.info p{
+    text-align: center;
+    font-size: 1.8rem;
+    line-height: 3.4rem;
+}
+
+.qr-code{
+    text-align: center;
+}
+
+img{
+    width: 40%;
+}
+
+.app{
+    position: absolute;
+    bottom: 7%;
+    left: 50%; 
+    transform: translate(-50%, 0); 
+    margin: auto;
+    font-size: 1.6rem;
+    text-align: center;
+}
+

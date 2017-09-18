@@ -1,0 +1,56 @@
+﻿@import url(./partial/base.css);
+
+.container{
+    height: 115vh;
+    background: url(../img/background5.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+
+.student-form{
+    padding-top: 48%;
+}
+
+.student-form{
+    text-align: center;
+}
+
+.student-form div{
+    margin-bottom: 6%;
+}
+
+.student-form input{
+    width: 21rem;
+    height: 3.5rem;
+    line-height: 3rem;
+    padding-left: .6rem;
+    font-size: 1.3rem;
+    border:1px solid #ccc;
+    border-radius: 4px;
+    background-color: rgba(100%,100%,100%,0.5);
+}
+
+.student-form input::-webkit-input-placeholder {
+　　color: #333;
+}
+
+.student-form select{
+    width: 22rem;
+    height: 3.5rem;
+    line-height: 3rem;
+    padding-left: .6rem;
+    font-size: 1.3rem;
+    border:1px solid #ccc;
+    border-radius: 4px;
+    background-color: rgba(100%,100%,100%,0.5);
+}
+
+.student-form button{
+    margin-top: 3%;
+    width: 13rem;
+    height: 3.2rem;
+    background: #009346;
+    border: 0;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 1.5rem;
+}
