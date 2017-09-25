@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.31, created on 2017-09-18 15:47:56
+/* Smarty version 3.1.31, created on 2017-09-25 14:01:02
   from "C:\laragon\www\enroll\app\smarty\templates\index\index.html" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_59bf7a2c200925_62422091',
+  'unifunc' => 'content_59c89b9e5f3d75_65163057',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '8d0eab03765544d4601333585aaed5aa1fa65dee' => 
     array (
       0 => 'C:\\laragon\\www\\enroll\\app\\smarty\\templates\\index\\index.html',
-      1 => 1505720872,
+      1 => 1506319081,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_59bf7a2c200925_62422091 (Smarty_Internal_Template $_smarty_tpl) {
+function content_59c89b9e5f3d75_65163057 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html lang="zh">
@@ -37,7 +37,7 @@ echo $_smarty_tpl->tpl_vars['assets']->value;
 $_prefixVariable2=ob_get_clean();
 echo $_prefixVariable2;?>
 /css/index.css">
-    <title>东北师范大学2017届艺术类人才专场招聘会暨才艺展演会</title>
+    <title>2017年 "山东——名校人才直通车"</title>
 </head>
 <body>
     <div class="container">

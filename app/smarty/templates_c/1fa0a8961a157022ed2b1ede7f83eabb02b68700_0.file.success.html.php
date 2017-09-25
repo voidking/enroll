@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.31, created on 2017-09-18 17:03:50
+/* Smarty version 3.1.31, created on 2017-09-25 14:13:58
   from "C:\laragon\www\enroll\app\smarty\templates\index\success.html" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_59bf8bf643d0f1_56514154',
+  'unifunc' => 'content_59c89ea66d57f5_89331352',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '1fa0a8961a157022ed2b1ede7f83eabb02b68700' => 
     array (
       0 => 'C:\\laragon\\www\\enroll\\app\\smarty\\templates\\index\\success.html',
-      1 => 1505725363,
+      1 => 1506320018,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_59bf8bf643d0f1_56514154 (Smarty_Internal_Template $_smarty_tpl) {
+function content_59c89ea66d57f5_89331352 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html lang="zh">
@@ -61,10 +61,11 @@ echo $_prefixVariable4;?>
                 您已经成功报名东北师范大学
             </p>
             <p>
-                2018届非师范毕业生招聘会
+                2017年 "山东——名校人才直通车"
             </p>
-            <p style="font-size: 1.1rem;">洽淡时间：2017年9月23日9:00—12:00</p>
-            <p style="font-size: 1.1rem;">洽谈地点：东北师范大学净月校区图书馆门前广场</p>
+            <p class="time">时间：2017年9月28日14:00—17:00</p>
+            <p class="location">地点：东北师范大学自由校区</p>
+            <p class="location2">就业中心一楼多功能厅</p>
         </div>
         <div class="app">
             <p>请同学们关注</p>
