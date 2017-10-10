@@ -54,11 +54,8 @@
     font-size: 1.1rem;
 }
 
-.info .location2{
-    padding-left: 6rem;
-    text-align: left;
-    font-size: 1.1rem;
-    line-height: 2rem;
+.info .location{
+    margin-top: -0.8rem;
 }
 
 .qr-code{
