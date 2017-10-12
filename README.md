@@ -10,8 +10,8 @@
 
 4、更改app/smarty/templates_c文件夹权限。
 ```
-cd app/smarty/
-chmod -R 777 templates_c
+cd app/
+chmod -R 777 smarty
 ```
 
 # 清空表命令
