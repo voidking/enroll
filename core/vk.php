@@ -1,12 +1,12 @@
 <?php
 
 namespace core;
-include_once CORE.'/autoload.php';
-include_once CORE.'/route.php';
 
 class vk{
-    public function run(){
+    public static function run(){
+        include CORE.'/autoload.php';
         spl_autoload_register('\core\autoload::load');
+        // include CORE.'/route.php';
         $route = new \core\route();
 
         $dir = $route->dir;
