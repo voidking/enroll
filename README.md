@@ -20,8 +20,8 @@ truncate en_student;
 ```
 
 # 效果图
-![](http://7oxjrx.com1.z0.glb.clouddn.com//imgs/enroll/01.jpg?imageView2/0/w/500)  
+![](http://cdn.voidking.com//imgs/enroll/01.jpg?imageView2/0/w/500)  
 
-![](http://7oxjrx.com1.z0.glb.clouddn.com//imgs/enroll/02.jpg?imageView2/0/w/500)  
+![](http://cdn.voidking.com//imgs/enroll/02.jpg?imageView2/0/w/500)  
 
-![](http://7oxjrx.com1.z0.glb.clouddn.com//imgs/enroll/03.jpg?imageView2/0/w/500)
+![](http://cdn.voidking.com//imgs/enroll/03.jpg?imageView2/0/w/500)
